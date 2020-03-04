@@ -1,6 +1,6 @@
 ## Welcome 
 
-My name is Jincheng. 
+My name is Jincheng Chen. 
 I am an IBI1 student at ZJU-UoE institute, Zhejiang University.
 
 [webpage](https://c.zju.edu.cn/) 
